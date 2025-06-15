@@ -1,0 +1,11 @@
+ID,Name,Location
+1,Al Reem,Amman
+2,City Mall,Amman
+3,Mecca Mall,Amman
+4,Taj Mall,Zarqa
+5,Zahran Mall,Irbid
+6,Abdali Mall,Amman
+7,Baraka Mall,Mafraq
+8,Gardenia Plaza,Aqaba
+9,Al-Hussein Mall,Madaba
+10,Al-Nakheel Mall,Karak

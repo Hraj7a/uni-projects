@@ -1,0 +1,25 @@
+This Python project tracks and analyzes sales performance for a chain of retail stores. It uses file handling, data processing, and conditional logic to give insights into store sales and profitability from 2018 to 2023.
+
+The program reads data from three external text files: stores.txt, sales_data.txt, and costs.txt. It organizes the data into dictionaries so it's easy to access by store ID. For example, read_stores() loads basic store details like name and location, and read_sales() loads yearly sales data per store.
+
+The main functionality is menu-based. Users can:
+
+1. View the average annual sales for each store using data from the past six years.
+
+2. Calculate and log the profit of a store in a given year, considering both sales and costs.
+
+3. Identify the top 3 stores with the highest total sales.
+
+4. Rate each store from 1 to 5 stars based on average monthly sales.
+
+It also creates or updates a file called store_profit.txt to save calculated profits. The program uses functions like sum(), file I/O (open, readline, write), loops, conditional statements, and exception handling to make sure everything runs smoothly.
+
+In short, the project demonstrates basic data analysis with real-world business logic — cleanly structured, interactive, and based on actual sales data processing.
+
+
+
+
+
+
+
+
